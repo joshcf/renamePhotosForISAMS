@@ -1,4 +1,16 @@
-# Script to rename photos from username.jpg to ISAMSID.jpg
+<#
+Script to rename photos from username.jpg to ISAMSID.jpg
+
+Assumptions:
+
+
+
+Place jpg files in images folder.
+
+
+
+#>
+
 
 # Load CSV report with ID and email addresses
 
